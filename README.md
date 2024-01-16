@@ -1,5 +1,5 @@
 ## hi, hey, hello! 😄
-I'm Anya (or Anastasiya, if you prefer to be formal about it), and I'm a *mostly* self-taught scientific programmer/developer, and I adore terrible web design. I have been called a hive-mind. Take that as you will.
+I'm Anya (or Anastasiya, if you prefer to be formal about it); I'm a *mostly* self-taught scientific programmer/developer, and I adore terrible web design. I have been called a hive-mind. Take that as you will.
 
 ### some projects I'm currently working on: 
 1. A cancer prediction model
