@@ -13,10 +13,11 @@ I'm Anya (or Anastasiya, if you prefer to be formal about it); I'm a *mostly* se
 Take these with a grain of salt, or seventeen, since 1.) languages aren't all that deep 2.) I learned brainf*ck first so I have bad taste.
 1. Python
 2. Java
-3. JS/HTML/CSS (I group them, don't @ me)
 4. Kotlin
-5. Brainf*ck itself
-6. SQL
+5. JS/HTML/CSS (I group them, don't @ me)
+6. Brainf*ck itself
+7. SQL
+8. Bash
 
 ### softwares
 1. SLDWRKS (sims mostly)
